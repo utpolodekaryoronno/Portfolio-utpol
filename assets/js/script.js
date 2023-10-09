@@ -393,8 +393,9 @@ var typed = new Typed('#typed', {
   fadeOutDelay: 500,
 });
 
-// Toggler- menu
 
+
+// sidebar Toggler- menu 
 
 const sideBar = document.querySelector('#side-bar');
 const toggleBar = document.querySelector('#toggler-bar');
