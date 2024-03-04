@@ -441,7 +441,7 @@ p {
   margin: 0.7rem 0;
 }
 
-.side-bar .cv-download button {
+.side-bar .cv-download a {
   width: 100%;
   text-transform: uppercase;
   color: #8c8c8e;
@@ -455,11 +455,11 @@ p {
   transition: all 0.5s ease;
 }
 
-.side-bar .cv-download button i {
+.side-bar .cv-download a i {
   padding-left: 0.5rem;
 }
 
-.side-bar .cv-download button:hover {
+.side-bar .cv-download a:hover {
   color: #fff;
 }
 
@@ -1156,6 +1156,7 @@ p {
   color: #8c8c8e;
   line-height: 1.6rem;
   margin-bottom: 0;
+  text-align: justify;
 }
 
 .my-work .gallery-items .single-project .project-title a {
